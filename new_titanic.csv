@@ -1,0 +1,888 @@
+,SURVIVED,PCLASS,NAME
+0,0,3,Mr. Owen Harris Braund
+1,1,1,Mrs. John Bradley (Florence Briggs Thayer) Cumings
+2,1,3,Miss. Laina Heikkinen
+3,1,1,Mrs. Jacques Heath (Lily May Peel) Futrelle
+4,0,3,Mr. William Henry Allen
+5,0,3,Mr. James Moran
+6,0,1,Mr. Timothy J McCarthy
+7,0,3,Master. Gosta Leonard Palsson
+8,1,3,Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson
+9,1,2,Mrs. Nicholas (Adele Achem) Nasser
+10,1,3,Miss. Marguerite Rut Sandstrom
+11,1,1,Miss. Elizabeth Bonnell
+12,0,3,Mr. William Henry Saundercock
+13,0,3,Mr. Anders Johan Andersson
+14,0,3,Miss. Hulda Amanda Adolfina Vestrom
+15,1,2,Mrs. (Mary D Kingcome) Hewlett
+16,0,3,Master. Eugene Rice
+17,1,2,Mr. Charles Eugene Williams
+18,0,3,Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke
+19,1,3,Mrs. Fatima Masselmani
+20,0,2,Mr. Joseph J Fynney
+21,1,2,Mr. Lawrence Beesley
+22,1,3,Miss. Anna McGowan
+23,1,1,Mr. William Thompson Sloper
+24,0,3,Miss. Torborg Danira Palsson
+25,1,3,Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund
+26,0,3,Mr. Farred Chehab Emir
+27,0,1,Mr. Charles Alexander Fortune
+28,1,3,Miss. Ellen O'Dwyer
+29,0,3,Mr. Lalio Todoroff
+30,0,1,Don. Manuel E Uruchurtu
+31,1,1,Mrs. William Augustus (Marie Eugenie) Spencer
+32,1,3,Miss. Mary Agatha Glynn
+33,0,2,Mr. Edward H Wheadon
+34,0,1,Mr. Edgar Joseph Meyer
+35,0,1,Mr. Alexander Oskar Holverson
+36,1,3,Mr. Hanna Mamee
+37,0,3,Mr. Ernest Charles Cann
+38,0,3,Miss. Augusta Maria Vander Planke
+39,1,3,Miss. Jamila Nicola-Yarred
+40,0,3,Mrs. Johan (Johanna Persdotter Larsson) Ahlin
+41,0,2,Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin
+42,1,2,Miss. Simonne Marie Anne Andree Laroche
+43,1,3,Miss. Margaret Delia Devaney
+44,0,3,Mr. William John Rogers
+45,0,3,Mr. Denis Lennon
+46,1,3,Miss. Bridget O'Driscoll
+47,0,3,Mr. Youssef Samaan
+48,0,3,Mrs. Josef (Josefine Franchi) Arnold-Franchi
+49,0,3,Master. Juha Niilo Panula
+50,0,3,Mr. Richard Cater Nosworthy
+51,1,1,Mrs. Henry Sleeper (Myna Haxtun) Harper
+52,1,2,Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe
+53,0,1,Mr. Engelhart Cornelius Ostby
+54,1,1,Mr. Hugh Woolner
+55,1,2,Miss. Emily Rugg
+56,0,3,Mr. Mansouer Novel
+57,1,2,Miss. Constance Mirium West
+58,0,3,Master. William Frederick Goodwin
+59,0,3,Mr. Orsen Sirayanian
+60,1,1,Miss. Amelie Icard
+61,0,1,Mr. Henry Birkhardt Harris
+62,0,3,Master. Harald Skoog
+63,0,1,Mr. Albert A Stewart
+64,1,3,Master. Gerios Moubarek
+65,1,2,Mrs. (Elizabeth Ramell) Nye
+66,0,3,Mr. Ernest James Crease
+67,1,3,Miss. Erna Alexandra Andersson
+68,0,3,Mr. Vincenz Kink
+69,0,2,Mr. Stephen Curnow Jenkin
+70,0,3,Miss. Lillian Amy Goodwin
+71,0,2,Mr. Ambrose Jr Hood
+72,0,3,Mr. Apostolos Chronopoulos
+73,1,3,Mr. Lee Bing
+74,0,3,Mr. Sigurd Hansen Moen
+75,0,3,Mr. Ivan Staneff
+76,0,3,Mr. Rahamin Haim Moutal
+77,1,2,Master. Alden Gates Caldwell
+78,1,3,Miss. Elizabeth Dowdell
+79,0,3,Mr. Achille Waelens
+80,1,3,Mr. Jan Baptist Sheerlinck
+81,1,3,Miss. Brigdet Delia McDermott
+82,0,1,Mr. Francisco M Carrau
+83,1,2,Miss. Bertha Ilett
+84,1,3,Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom
+85,0,3,Mr. William Neal Ford
+86,0,3,Mr. Selman Francis Slocovski
+87,1,1,Miss. Mabel Helen Fortune
+88,0,3,Mr. Francesco Celotti
+89,0,3,Mr. Emil Christmann
+90,0,3,Mr. Paul Edvin Andreasson
+91,0,1,Mr. Herbert Fuller Chaffee
+92,0,3,Mr. Bertram Frank Dean
+93,0,3,Mr. Daniel Coxon
+94,0,3,Mr. Charles Joseph Shorney
+95,0,1,Mr. George B Goldschmidt
+96,1,1,Mr. William Bertram Greenfield
+97,1,2,Mrs. John T (Ada Julia Bone) Doling
+98,0,2,Mr. Sinai Kantor
+99,0,3,Miss. Matilda Petranec
+100,0,3,Mr. Pastcho Petroff
+101,0,1,Mr. Richard Frasar White
+102,0,3,Mr. Gustaf Joel Johansson
+103,0,3,Mr. Anders Vilhelm Gustafsson
+104,0,3,Mr. Stoytcho Mionoff
+105,1,3,Miss. Anna Kristine Salkjelsvik
+106,1,3,Mr. Albert Johan Moss
+107,0,3,Mr. Tido Rekic
+108,1,3,Miss. Bertha Moran
+109,0,1,Mr. Walter Chamberlain Porter
+110,0,3,Miss. Hileni Zabour
+111,0,3,Mr. David John Barton
+112,0,3,Miss. Katriina Jussila
+113,0,3,Miss. Malake Attalah
+114,0,3,Mr. Edvard Pekoniemi
+115,0,3,Mr. Patrick Connors
+116,0,2,Mr. William John Robert Turpin
+117,0,1,Mr. Quigg Edmond Baxter
+118,0,3,Miss. Ellis Anna Maria Andersson
+119,0,2,Mr. Stanley George Hickman
+120,0,3,Mr. Leonard Charles Moore
+121,0,2,Mr. Nicholas Nasser
+122,1,2,Miss. Susan Webber
+123,0,1,Mr. Percival Wayland White
+124,1,3,Master. Elias Nicola-Yarred
+125,0,3,Mr. Martin McMahon
+126,1,3,Mr. Fridtjof Arne Madsen
+127,1,3,Miss. Anna Peter
+128,0,3,Mr. Johan Ekstrom
+129,0,3,Mr. Jozef Drazenoic
+130,0,3,Mr. Domingos Fernandeo Coelho
+131,0,3,Mrs. Alexander A (Grace Charity Laury) Robins
+132,1,2,Mrs. Leopold (Mathilde Francoise Pede) Weisz
+133,0,2,Mr. Samuel James Hayden Sobey
+134,0,2,Mr. Emile Richard
+135,1,1,Miss. Helen Monypeny Newsom
+136,0,1,Mr. Jacques Heath Futrelle
+137,0,3,Mr. Olaf Elon Osen
+138,0,1,Mr. Victor Giglio
+139,0,3,Mrs. Joseph (Sultana) Boulos
+140,1,3,Miss. Anna Sofia Nysten
+141,1,3,Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen
+142,0,3,Mr. Jeremiah Burke
+143,0,2,Mr. Edgardo Samuel Andrew
+144,0,2,Mr. Joseph Charles Nicholls
+145,1,3,Mr. August Edvard Andersson
+146,0,3,Miss. Robina Maggie Ford
+147,0,2,Mr. Michel Navratil
+148,0,2,Rev. Thomas Roussel Davids Byles
+149,0,2,Rev. Robert James Bateman
+150,1,1,Mrs. Thomas (Edith Wearne) Pears
+151,0,3,Mr. Alfonzo Meo
+152,0,3,Mr. Austin Blyler van Billiard
+153,0,3,Mr. Ole Martin Olsen
+154,0,1,Mr. Charles Duane Williams
+155,1,3,Miss. Katherine Gilnagh
+156,0,3,Mr. Harry Corn
+157,0,3,Mr. Mile Smiljanic
+158,0,3,Master. Thomas Henry Sage
+159,0,3,Mr. John Hatfield Cribb
+160,1,2,Mrs. James (Elizabeth Inglis Milne) Watt
+161,0,3,Mr. John Viktor Bengtsson
+162,0,3,Mr. Jovo Calic
+163,0,3,Master. Eino Viljami Panula
+164,1,3,Master. Frank John William Goldsmith
+165,1,1,Mrs. (Edith Martha Bowerman) Chibnall
+166,0,3,Mrs. William (Anna Bernhardina Karlsson) Skoog
+167,0,1,Mr. John D Baumann
+168,0,3,Mr. Lee Ling
+169,0,1,Mr. Wyckoff Van der hoef
+170,0,3,Master. Arthur Rice
+171,1,3,Miss. Eleanor Ileen Johnson
+172,0,3,Mr. Antti Wilhelm Sivola
+173,0,1,Mr. James Clinch Smith
+174,0,3,Mr. Klas Albin Klasen
+175,0,3,Master. Henry Forbes Lefebre
+176,0,1,Miss. Ann Elizabeth Isham
+177,0,2,Mr. Reginald Hale
+178,0,3,Mr. Lionel Leonard
+179,0,3,Miss. Constance Gladys Sage
+180,0,2,Mr. Rene Pernot
+181,0,3,Master. Clarence Gustaf Hugo Asplund
+182,1,2,Master. Richard F Becker
+183,1,3,Miss. Luise Gretchen Kink-Heilmann
+184,0,1,Mr. Hugh Roscoe Rood
+185,1,3,Mrs. Thomas (Johanna Godfrey) O'Brien
+186,1,1,Mr. Charles Hallace Romaine
+187,0,3,Mr. John Bourke
+188,0,3,Mr. Stjepan Turcin
+189,1,2,Mrs. (Rosa) Pinsky
+190,0,2,Mr. William Carbines
+191,1,3,Miss. Carla Christine Nielsine Andersen-Jensen
+192,1,2,Master. Michel M Navratil
+193,1,1,Mrs. James Joseph (Margaret Tobin) Brown
+194,1,1,Miss. Elise Lurette
+195,0,3,Mr. Robert Mernagh
+196,0,3,Mr. Karl Siegwart Andreas Olsen
+197,1,3,Miss. Margaret Madigan
+198,0,2,Miss. Henriette Yrois
+199,0,3,Mr. Nestor Cyriel Vande Walle
+200,0,3,Mr. Frederick Sage
+201,0,3,Mr. Jakob Alfred Johanson
+202,0,3,Mr. Gerious Youseff
+203,1,3,Mr. Gurshon Cohen
+204,0,3,Miss. Telma Matilda Strom
+205,0,3,Mr. Karl Alfred Backstrom
+206,1,3,Mr. Nassef Cassem Albimona
+207,1,3,Miss. Helen Carr
+208,1,1,Mr. Henry Blank
+209,0,3,Mr. Ahmed Ali
+210,1,2,Miss. Clear Annie Cameron
+211,0,3,Mr. John Henry Perkin
+212,0,2,Mr. Hans Kristensen Givard
+213,0,3,Mr. Philip Kiernan
+214,1,1,Miss. Madeleine Newell
+215,1,3,Miss. Eliina Honkanen
+216,0,2,Mr. Sidney Samuel Jacobsohn
+217,1,1,Miss. Albina Bazzani
+218,0,2,Mr. Walter Harris
+219,1,3,Mr. Victor Francis Sunderland
+220,0,2,Mr. James H Bracken
+221,0,3,Mr. George Henry Green
+222,0,3,Mr. Christo Nenkoff
+223,1,1,Mr. Frederick Maxfield Hoyt
+224,0,3,Mr. Karl Ivar Sven Berglund
+225,1,2,Mr. William John Mellors
+226,0,3,Mr. John Hall Lovell
+227,0,2,Mr. Arne Jonas Fahlstrom
+228,0,3,Miss. Mathilde Lefebre
+229,1,1,Mrs. Henry Birkhardt (Irene Wallach) Harris
+230,0,3,Mr. Bengt Edvin Larsson
+231,0,2,Mr. Ernst Adolf Sjostedt
+232,1,3,Miss. Lillian Gertrud Asplund
+233,0,2,Mr. Robert William Norman Leyson
+234,0,3,Miss. Alice Phoebe Harknett
+235,0,2,Mr. Stephen Hold
+236,1,2,Miss. Marjorie Collyer
+237,0,2,Mr. Frederick William Pengelly
+238,0,2,Mr. George Henry Hunt
+239,0,3,Miss. Thamine Zabour
+240,1,3,Miss. Katherine Murphy
+241,0,2,Mr. Reginald Charles Coleridge
+242,0,3,Mr. Matti Alexanteri Maenpaa
+243,0,3,Mr. Sleiman Attalah
+244,0,1,Dr. William Edward Minahan
+245,0,3,Miss. Agda Thorilda Viktoria Lindahl
+246,1,2,Mrs. William (Anna) Hamalainen
+247,1,1,Mr. Richard Leonard Beckwith
+248,0,2,Rev. Ernest Courtenay Carter
+249,0,3,Mr. James George Reed
+250,0,3,Mrs. Wilhelm (Elna Matilda Persson) Strom
+251,0,1,Mr. William Thomas Stead
+252,0,3,Mr. William Arthur Lobb
+253,0,3,Mrs. Viktor (Helena Wilhelmina) Rosblom
+254,1,3,Mrs. Darwis (Hanne Youssef Razi) Touma
+255,1,1,Mrs. Gertrude Maybelle Thorne
+256,1,1,Miss. Gladys Cherry
+257,1,1,Miss. Anna Ward
+258,1,2,Mrs. (Lutie Davis) Parrish
+259,1,3,Master. Edvin Rojj Felix Asplund
+260,0,1,Mr. Emil Taussig
+261,0,1,Mr. William Harrison
+262,0,3,Miss. Delia Henry
+263,0,2,Mr. David Reeves
+264,0,3,Mr. Ernesti Arvid Panula
+265,1,3,Mr. Ernst Ulrik Persson
+266,1,1,Mrs. William Thompson (Edith Junkins) Graham
+267,1,1,Miss. Amelia Bissette
+268,0,1,Mr. Alexander Cairns
+269,1,3,Mr. William Henry Tornquist
+270,1,2,Mrs. (Elizabeth Anne Maidment) Mellinger
+271,0,1,Mr. Charles H Natsch
+272,1,3,Miss. Hanora Healy
+273,1,1,Miss. Kornelia Theodosia Andrews
+274,0,3,Miss. Augusta Charlotta Lindblom
+275,0,2,Mr. Francis Parkes
+276,0,3,Master. Eric Rice
+277,1,3,Mrs. Stanton (Rosa Hunt) Abbott
+278,0,3,Mr. Frank Duane
+279,0,3,Mr. Nils Johan Goransson Olsson
+280,0,3,Mr. Alfons de Pelsmaeker
+281,1,3,Mr. Edward Arthur Dorking
+282,0,1,Mr. Richard William Smith
+283,0,3,Mr. Ivan Stankovic
+284,1,3,Mr. Theodore de Mulder
+285,0,3,Mr. Penko Naidenoff
+286,1,2,Mr. Masabumi Hosono
+287,1,3,Miss. Kate Connolly
+288,1,1,Miss. Ellen Barber
+289,1,1,Mrs. Dickinson H (Helen Walton) Bishop
+290,0,2,Mr. Rene Jacques Levy
+291,0,3,Miss. Aloisia Haas
+292,0,3,Mr. Ivan Mineff
+293,0,1,Mr. Ervin G Lewy
+294,0,3,Mr. Mansour Hanna
+295,0,1,Miss. Helen Loraine Allison
+296,1,1,Mr. Adolphe Saalfeld
+297,1,1,Mrs. James (Helene DeLaudeniere Chaput) Baxter
+298,1,3,Miss. Anna Katherine Kelly
+299,1,3,Mr. Bernard McCoy
+300,0,3,Mr. William Cahoone Jr Johnson
+301,1,2,Miss. Nora A Keane
+302,0,3,Mr. Howard Hugh Williams
+303,1,1,Master. Hudson Trevor Allison
+304,1,1,Miss. Margaret Fleming
+305,1,1,Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana
+306,0,2,Mr. Samuel Abelson
+307,1,1,Miss. Laura Mabel Francatelli
+308,1,1,Miss. Margaret Bechstein Hays
+309,1,1,Miss. Emily Borie Ryerson
+310,0,2,Mrs. William (Anna Sylfven) Lahtinen
+311,0,3,Mr. Ignjac Hendekovic
+312,0,2,Mr. Benjamin Hart
+313,1,3,Miss. Helmina Josefina Nilsson
+314,1,2,Mrs. Sinai (Miriam Sternin) Kantor
+315,0,2,Dr. Ernest Moraweck
+316,1,1,Miss. Mary Natalie Wick
+317,1,1,Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden
+318,0,3,Mr. Samuel Dennis
+319,0,3,Mr. Yoto Danoff
+320,1,2,Miss. Hilda Mary Slayter
+321,1,2,Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell
+322,0,3,Mr. George John Jr Sage
+323,1,1,Miss. Marie Grice Young
+324,0,3,Mr. Johan Hansen Nysveen
+325,1,2,Mrs. (Ada E Hall) Ball
+326,1,3,Mrs. Frank John (Emily Alice Brown) Goldsmith
+327,1,1,Miss. Jean Gertrude Hippach
+328,1,3,Miss. Agnes McCoy
+329,0,1,Mr. Austen Partner
+330,0,1,Mr. George Edward Graham
+331,0,3,Mr. Leo Edmondus Vander Planke
+332,1,1,Mrs. Henry William (Clara Heinsheimer) Frauenthal
+333,0,3,Mr. Mitto Denkoff
+334,0,1,Mr. Thomas Clinton Pears
+335,1,1,Miss. Elizabeth Margaret Burns
+336,1,3,Mr. Karl Edwart Dahl
+337,0,1,Mr. Stephen Weart Blackwell
+338,1,2,Master. Edmond Roger Navratil
+339,1,1,Miss. Alice Elizabeth Fortune
+340,0,2,Mr. Erik Gustaf Collander
+341,0,2,Mr. Charles Frederick Waddington Sedgwick
+342,0,2,Mr. Stanley Hubert Fox
+343,1,2,Miss. Amelia Brown
+344,1,2,Miss. Marion Elsie Smith
+345,1,3,Mrs. Thomas Henry (Mary E Finck) Davison
+346,1,3,Master. William Loch Coutts
+347,0,3,Mr. Jovan Dimic
+348,0,3,Mr. Nils Martin Odahl
+349,0,1,Mr. Fletcher Fellows Williams-Lambert
+350,0,3,Mr. Tannous Elias
+351,0,3,Mr. Josef Arnold-Franchi
+352,0,3,Mr. Wazli Yousif
+353,0,3,Mr. Leo Peter Vanden Steen
+354,1,1,Miss. Elsie Edith Bowerman
+355,0,2,Miss. Annie Clemmer Funk
+356,1,3,Miss. Mary McGovern
+357,1,3,Miss. Helen Mary Mockler
+358,0,3,Mr. Wilhelm Skoog
+359,0,2,Mr. Sebastiano del Carlo
+360,0,3,Mrs. (Catherine David) Barbara
+361,0,3,Mr. Adola Asim
+362,0,3,Mr. Thomas O'Brien
+363,0,3,Mr. Mauritz Nils Martin Adahl
+364,1,1,Mrs. Frank Manley (Anna Sophia Atkinson) Warren
+365,1,3,Mrs. (Mantoura Boulos) Moussa
+366,1,3,Miss. Annie Jermyn
+367,1,1,Mme. Leontine Pauline Aubart
+368,1,1,Mr. George Achilles Harder
+369,0,3,Mr. Jakob Alfred Wiklund
+370,0,3,Mr. William Thomas Beavan
+371,0,1,Mr. Sante Ringhini
+372,0,3,Miss. Stina Viola Palsson
+373,1,1,Mrs. Edgar Joseph (Leila Saks) Meyer
+374,1,3,Miss. Aurora Adelia Landergren
+375,0,1,Mr. Harry Elkins Widener
+376,0,3,Mr. Tannous Betros
+377,0,3,Mr. Karl Gideon Gustafsson
+378,1,1,Miss. Rosalie Bidois
+379,1,3,Miss. Maria Nakid
+380,0,3,Mr. Juho Tikkanen
+381,1,1,Mrs. Alexander Oskar (Mary Aline Towner) Holverson
+382,0,3,Mr. Vasil Plotcharsky
+383,0,2,Mr. Charles Henry Davies
+384,0,3,Master. Sidney Leonard Goodwin
+385,1,2,Miss. Kate Buss
+386,0,3,Mr. Matthew Sadlier
+387,1,2,Miss. Bertha Lehmann
+388,1,1,Mr. William Ernest Carter
+389,1,3,Mr. Carl Olof Jansson
+390,0,3,Mr. Johan Birger Gustafsson
+391,1,1,Miss. Marjorie Newell
+392,1,3,Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom
+393,0,3,Mr. Erik Johansson
+394,0,3,Miss. Elina Olsson
+395,0,2,Mr. Peter David McKane
+396,0,2,Dr. Alfred Pain
+397,1,2,Mrs. William H (Jessie L) Trout
+398,1,3,Mr. Juha Niskanen
+399,0,3,Mr. John Adams
+400,0,3,Miss. Mari Aina Jussila
+401,0,3,Mr. Pekka Pietari Hakkarainen
+402,0,3,Miss. Marija Oreskovic
+403,0,2,Mr. Shadrach Gale
+404,0,3,Mr. Carl/Charles Peter Widegren
+405,1,2,Master. William Rowe Richards
+406,0,3,Mr. Hans Martin Monsen Birkeland
+407,0,3,Miss. Ida Lefebre
+408,0,3,Mr. Todor Sdycoff
+409,0,3,Mr. Henry Hart
+410,1,1,Miss. Daisy E Minahan
+411,0,2,Mr. Alfred Fleming Cunningham
+412,1,3,Mr. Johan Julian Sundman
+413,0,3,Mrs. Thomas (Annie Louise Rowley) Meek
+414,1,2,Mrs. James Vivian (Lulu Thorne Christian) Drew
+415,1,2,Miss. Lyyli Karoliina Silven
+416,0,2,Mr. William John Matthews
+417,0,3,Miss. Catharina Van Impe
+418,0,3,Mr. David Charters
+419,0,3,Mr. Leo Zimmerman
+420,0,3,Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom
+421,0,3,Mr. Viktor Richard Rosblom
+422,0,3,Mr. Phillippe Wiseman
+423,1,2,Mrs. Charles V (Ada Maria Winfield) Clarke
+424,1,2,Miss. Kate Florence Phillips
+425,0,3,Mr. James Flynn
+426,1,3,Mr. Berk (Berk Trembisky) Pickard
+427,1,1,Mr. Mauritz Hakan Bjornstrom-Steffansson
+428,1,3,Mrs. Percival (Florence Kate White) Thorneycroft
+429,1,2,Mrs. Charles Alexander (Alice Adelaide Slow) Louch
+430,0,3,Mr. Nikolai Erland Kallio
+431,0,1,Mr. William Baird Silvey
+432,1,1,Miss. Lucile Polk Carter
+433,0,3,Miss. Doolina Margaret Ford
+434,1,2,Mrs. Sidney (Emily Hocking) Richards
+435,0,1,Mr. Mark Fortune
+436,0,2,Mr. Johan Henrik Johannesson Kvillner
+437,1,2,Mrs. Benjamin (Esther Ada Bloomfield) Hart
+438,0,3,Mr. Leon Hampe
+439,0,3,Mr. Johan Emil Petterson
+440,1,2,Ms. Encarnacion Reynaldo
+441,1,3,Mr. Bernt Johannesen-Bratthammer
+442,1,1,Master. Washington Dodge
+443,1,2,Miss. Madeleine Violet Mellinger
+444,1,1,Mr. Frederic Kimber Seward
+445,1,3,Miss. Marie Catherine Baclini
+446,1,1,Major. Arthur Godfrey Peuchen
+447,0,2,Mr. Edwy Arthur West
+448,0,3,Mr. Ingvald Olai Olsen Hagland
+449,0,1,Mr. Benjamin Laventall Foreman
+450,1,1,Mr. Samuel L Goldenberg
+451,0,3,Mr. Joseph Peduzzi
+452,1,3,Mr. Ivan Jalsevac
+453,0,1,Mr. Francis Davis Millet
+454,1,1,Mrs. Frederick R (Marion) Kenyon
+455,1,2,Miss. Ellen Toomey
+456,0,3,Mr. Maurice O'Connor
+457,1,1,Mr. Harry Anderson
+458,0,3,Mr. William Morley
+459,0,1,Mr. Arthur H Gee
+460,0,2,Mr. Jacob Christian Milling
+461,0,3,Mr. Simon Maisner
+462,0,3,Mr. Manuel Estanslas Goncalves
+463,0,2,Mr. William Campbell
+464,0,1,Mr. John Montgomery Smart
+465,0,3,Mr. James Scanlan
+466,1,3,Miss. Helene Barbara Baclini
+467,0,3,Mr. Arthur Keefe
+468,0,3,Mr. Luka Cacic
+469,1,2,Mrs. Edwy Arthur (Ada Mary Worth) West
+470,1,2,Mrs. Amin S (Marie Marthe Thuillard) Jerwan
+471,0,3,Miss. Ida Sofia Strandberg
+472,0,1,Mr. George Quincy Clifford
+473,0,2,Mr. Peter Henry Renouf
+474,0,3,Mr. Lewis Richard Braund
+475,0,3,Mr. Nils August Karlsson
+476,1,3,Miss. Hildur E Hirvonen
+477,0,3,Master. Harold Victor Goodwin
+478,0,2,Mr. Anthony Wood Frost
+479,0,3,Mr. Richard Henry Rouse
+480,1,3,Mrs. (Hedwig) Turkula
+481,1,1,Mr. Dickinson H Bishop
+482,0,3,Miss. Jeannie Lefebre
+483,1,1,Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt
+484,0,1,Mr. Edward Austin Kent
+485,0,3,Mr. Francis William Somerton
+486,1,3,Master. Eden Leslie Coutts
+487,0,3,Mr. Konrad Mathias Reiersen Hagland
+488,0,3,Mr. Einar Windelov
+489,0,1,Mr. Harry Markland Molson
+490,0,1,Mr. Ramon Artagaveytia
+491,0,3,Mr. Edward Roland Stanley
+492,0,3,Mr. Gerious Yousseff
+493,1,1,Miss. Elizabeth Mussey Eustis
+494,0,3,Mr. Frederick William Shellard
+495,0,1,Mrs. Hudson J C (Bessie Waldo Daniels) Allison
+496,0,3,Mr. Olof Svensson
+497,0,3,Mr. Petar Calic
+498,0,3,Miss. Mary Canavan
+499,0,3,Miss. Bridget Mary O'Sullivan
+500,0,3,Miss. Kristina Sofia Laitinen
+501,1,1,Miss. Roberta Maioni
+502,0,1,Mr. Victor de Satode Penasco y Castellana
+503,1,2,Mrs. Frederick Charles (Jane Richards) Quick
+504,1,1,Mr. George Bradley
+505,0,3,Mr. Henry Margido Olsen
+506,1,3,Mr. Fang Lang
+507,1,3,Mr. Eugene Patrick Daly
+508,0,3,Mr. James Webber
+509,1,1,Mr. James Robert McGough
+510,1,1,Mrs. Martin (Elizabeth L. Barrett) Rothschild
+511,0,3,Mr. Satio Coleff
+512,0,1,Mr. William Anderson Walker
+513,1,2,Mrs. (Amelia Milley) Lemore
+514,0,3,Mr. Patrick Ryan
+515,1,2,Mrs. William A (Florence Agnes Hughes) Angle
+516,0,3,Mr. Stefo Pavlovic
+517,1,1,Miss. Anne Perreault
+518,0,3,Mr. Janko Vovk
+519,0,3,Mr. Sarkis Lahoud
+520,1,1,Mrs. Louis Albert (Ida Sophia Fischer) Hippach
+521,0,3,Mr. Fared Kassem
+522,0,3,Mr. James Farrell
+523,1,2,Miss. Lucy Ridsdale
+524,0,1,Mr. John Farthing
+525,0,3,Mr. Johan Werner Salonen
+526,0,2,Mr. Richard George Hocking
+527,1,2,Miss. Phyllis May Quick
+528,0,3,Mr. Nakli Toufik
+529,0,3,Mr. Joseph Jr Elias
+530,1,3,Mrs. Catherine (Catherine Rizk) Peter
+531,0,3,Miss. Marija Cacic
+532,1,2,Miss. Eva Miriam Hart
+533,0,1,Major. Archibald Willingham Butt
+534,1,1,Miss. Bertha LeRoy
+535,0,3,Mr. Samuel Beard Risien
+536,1,1,Miss. Hedwig Margaritha Frolicher
+537,1,1,Miss. Harriet R Crosby
+538,0,3,Miss. Ingeborg Constanzia Andersson
+539,0,3,Miss. Sigrid Elisabeth Andersson
+540,1,2,Mr. Edward Beane
+541,0,1,Mr. Walter Donald Douglas
+542,0,1,Mr. Arthur Ernest Nicholson
+543,1,2,Mrs. Edward (Ethel Clarke) Beane
+544,1,2,Mr. Julian Padro y Manent
+545,0,3,Mr. Frank John Goldsmith
+546,1,2,Master. John Morgan Jr Davies
+547,1,1,Mr. John Borland Jr Thayer
+548,0,2,Mr. Percival James R Sharp
+549,0,3,Mr. Timothy O'Brien
+550,1,3,Mr. Fahim Leeni
+551,1,3,Miss. Velin Ohman
+552,0,1,Mr. George Wright
+553,1,1,Lady. (Lucille Christiana Sutherland)Duff Gordon
+554,0,1,Mr. Victor Robbins
+555,1,1,Mrs. Emil (Tillie Mandelbaum) Taussig
+556,1,3,Mrs. Guillaume Joseph (Emma) de Messemaeker
+557,0,3,Mr. Thomas Rowan Morrow
+558,0,3,Mr. Husein Sivic
+559,0,2,Mr. Robert Douglas Norman
+560,0,3,Mr. John Simmons
+561,0,3,Miss. (Marion Ogden) Meanwell
+562,0,3,Mr. Alfred J Davies
+563,0,3,Mr. Ilia Stoytcheff
+564,0,3,Mrs. Nils (Alma Cornelia Berglund) Palsson
+565,0,3,Mr. Tannous Doharr
+566,1,3,Mr. Carl Jonsson
+567,1,2,Mr. George Harris
+568,1,1,Mrs. Edward Dale (Charlotte Lamson) Appleton
+569,1,1,Mr. John Irwin Flynn
+570,1,3,Miss. Mary Kelly
+571,0,3,Mr. Alfred George John Rush
+572,0,3,Mr. George Patchett
+573,1,2,Miss. Ethel Garside
+574,1,1,Mrs. William Baird (Alice Munger) Silvey
+575,0,3,Mrs. Joseph (Maria Elias) Caram
+576,1,3,Mr. Eiriik Jussila
+577,1,2,Miss. Julie Rachel Christy
+578,1,1,Mrs. John Borland (Marian Longstreth Morris) Thayer
+579,0,2,Mr. William James Downton
+580,0,1,Mr. John Hugo Ross
+581,0,3,Mr. Uscher Paulner
+582,1,1,Miss. Ruth Taussig
+583,0,2,Mr. John Denzil Jarvis
+584,1,1,Mr. Maxmillian Frolicher-Stehli
+585,0,3,Mr. Eliezer Gilinski
+586,0,3,Mr. Joseph Murdlin
+587,0,3,Mr. Matti Rintamaki
+588,1,1,Mrs. Walter Bertram (Martha Eustis) Stephenson
+589,0,3,Mr. William James Elsbury
+590,0,3,Miss. Mary Bourke
+591,0,2,Mr. John Henry Chapman
+592,0,3,Mr. Jean Baptiste Van Impe
+593,1,2,Miss. Jessie Wills Leitch
+594,0,3,Mr. Alfred Johnson
+595,0,3,Mr. Hanna Boulos
+596,1,1,Sir. Cosmo Edmund Duff Gordon
+597,1,2,Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn
+598,0,3,Mr. Petco Slabenoff
+599,0,1,Mr. Charles H Harrington
+600,0,3,Mr. Ernst William Torber
+601,1,1,Mr. Harry Homer
+602,0,3,Mr. Edvard Bengtsson Lindell
+603,0,3,Mr. Milan Karaic
+604,1,1,Mr. Robert Williams Daniel
+605,1,2,Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche
+606,1,1,Miss. Elizabeth W Shutes
+607,0,3,Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson
+608,0,3,Mr. Jose Neto Jardin
+609,1,3,Miss. Margaret Jane Murphy
+610,0,3,Mr. John Horgan
+611,0,3,Mr. William Alfred Brocklebank
+612,1,2,Miss. Alice Herman
+613,0,3,Mr. Ernst Gilbert Danbom
+614,0,3,Mrs. William Arthur (Cordelia K Stanlick) Lobb
+615,1,2,Miss. Marion Louise Becker
+616,0,2,Mr. Lawrence Gavey
+617,0,3,Mr. Antoni Yasbeck
+618,1,1,Mr. Edwin Nelson Jr Kimball
+619,1,3,Mr. Sahid Nakid
+620,0,3,Mr. Henry Damsgaard Hansen
+621,0,3,Mr. David John Bowen
+622,0,1,Mr. Frederick Sutton
+623,0,2,Rev. Charles Leonard Kirkland
+624,1,1,Miss. Gretchen Fiske Longley
+625,0,3,Mr. Guentcho Bostandyeff
+626,0,3,Mr. Patrick D O'Connell
+627,1,1,Mr. Algernon Henry Wilson Barkworth
+628,0,3,Mr. Johan Svensson Lundahl
+629,1,1,Dr. Max Stahelin-Maeglin
+630,0,1,Mr. William Henry Marsh Parr
+631,0,3,Miss. Mabel Skoog
+632,1,2,Miss. Mary Davis
+633,0,3,Mr. Antti Gustaf Leinonen
+634,0,2,Mr. Harvey Collyer
+635,0,3,Mrs. Juha (Maria Emilia Ojala) Panula
+636,0,3,Mr. Percival Thorneycroft
+637,0,3,Mr. Hans Peder Jensen
+638,1,1,Mlle. Emma Sagesser
+639,0,3,Miss. Margit Elizabeth Skoog
+640,1,3,Mr. Choong Foo
+641,1,3,Miss. Eugenie Baclini
+642,1,1,Mr. Henry Sleeper Harper
+643,0,3,Mr. Liudevit Cor
+644,1,1,Col. Oberst Alfons Simonius-Blumer
+645,0,3,Mr. Edward Willey
+646,1,3,Miss. Amy Zillah Elsie Stanley
+647,0,3,Mr. Mito Mitkoff
+648,1,2,Miss. Elsie Doling
+649,0,3,Mr. Johannes Halvorsen Kalvik
+650,1,3,Miss. Hanora O'Leary
+651,0,3,Miss. Hanora Hegarty
+652,0,2,Mr. Leonard Mark Hickman
+653,0,3,Mr. Alexander Radeff
+654,0,3,Mrs. John (Catherine) Bourke
+655,0,2,Mr. George Floyd Eitemiller
+656,0,1,Mr. Arthur Webster Newell
+657,1,1,Dr. Henry William Frauenthal
+658,0,3,Mr. Mohamed Badt
+659,0,1,Mr. Edward Pomeroy Colley
+660,0,3,Mr. Peju Coleff
+661,1,3,Mr. Eino William Lindqvist
+662,0,2,Mr. Lewis Hickman
+663,0,2,Mr. Reginald Fenton Butler
+664,0,3,Mr. Knud Paust Rommetvedt
+665,0,3,Mr. Jacob Cook
+666,1,1,Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor
+667,1,2,Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown
+668,0,1,Mr. Thornton Davidson
+669,0,2,Mr. Henry Michael Mitchell
+670,1,2,Mr. Charles Wilhelms
+671,0,2,Mr. Ennis Hastings Watson
+672,0,3,Mr. Gustaf Hjalmar Edvardsson
+673,0,3,Mr. Frederick Charles Sawyer
+674,1,3,Miss. Anna Sofia Turja
+675,0,3,Mrs. Frederick (Augusta Tyler) Goodwin
+676,1,1,Mr. Thomas Drake Martinez Cardeza
+677,0,3,Miss. Katie Peters
+678,1,1,Mr. Hammad Hassab
+679,0,3,Mr. Thor Anderson Olsvigen
+680,0,3,Mr. Charles Edward Goodwin
+681,0,2,Mr. Thomas William Solomon Brown
+682,0,2,Mr. Joseph Philippe Lemercier Laroche
+683,0,3,Mr. Jaako Arnold Panula
+684,0,3,Mr. Branko Dakic
+685,0,3,Mr. Eberhard Thelander Fischer
+686,1,1,Miss. Georgette Alexandra Madill
+687,1,1,Mr. Albert Adrian Dick
+688,1,3,Miss. Manca Karun
+689,1,3,Mr. Ali Lam
+690,0,3,Mr. Khalil Saad
+691,0,1,Col. John Weir
+692,0,2,Mr. Charles Henry Chapman
+693,0,3,Mr. James Kelly
+694,1,3,Miss. Katherine Mullens
+695,0,1,Mr. John Borland Thayer
+696,0,3,Mr. Adolf Mathias Nicolai Olsen Humblen
+697,1,1,Mrs. John Jacob (Madeleine Talmadge Force) Astor
+698,1,1,Mr. Spencer Victor Silverthorne
+699,0,3,Miss. Saiide Barbara
+700,0,3,Mr. Martin Gallagher
+701,0,3,Mr. Henrik Juul Hansen
+702,0,2,Mr. Henry Samuel Morley
+703,1,2,Mrs. Florence Kelly
+704,1,1,Mr. Edward Pennington Calderhead
+705,1,1,Miss. Alice Cleaver
+706,1,3,Master. Halim Gonios Moubarek
+707,1,1,Mlle. Berthe Antonine Mayne
+708,0,1,Mr. Herman Klaber
+709,1,1,Mr. Elmer Zebley Taylor
+710,0,3,Mr. August Viktor Larsson
+711,0,2,Mr. Samuel Greenberg
+712,0,3,Mr. Peter Andreas Lauritz Andersen Soholt
+713,1,1,Miss. Caroline Louise Endres
+714,1,2,Miss. Edwina Celia Troutt
+715,0,3,Mr. Malkolm Joackim Johnson
+716,1,2,Miss. Annie Jessie Harper
+717,0,3,Mr. Svend Lauritz Jensen
+718,0,2,Mr. William Henry Gillespie
+719,0,2,Mr. Henry Price Hodges
+720,1,1,Mr. Norman Campbell Chambers
+721,0,3,Mr. Luka Oreskovic
+722,1,2,Mrs. Peter Henry (Lillian Jefferys) Renouf
+723,1,3,Miss. Margareth Mannion
+724,0,2,Mr. Kurt Arnold Gottfrid Bryhl
+725,0,3,Miss. Pieta Sofia Ilmakangas
+726,1,1,Miss. Elisabeth Walton Allen
+727,0,3,Mr. Houssein G N Hassan
+728,0,2,Mr. Robert J Knight
+729,0,2,Mr. William John Berriman
+730,0,2,Mr. Moses Aaron Troupiansky
+731,0,3,Mr. Leslie Williams
+732,0,3,Mrs. Edward (Margaret Ann Watson) Ford
+733,1,1,Mr. Gustave J Lesurer
+734,0,3,Mr. Kanio Ivanoff
+735,0,3,Mr. Minko Nankoff
+736,1,1,Mr. Walter James Hawksford
+737,0,1,Mr. Tyrell William Cavendish
+738,1,1,Miss. Susan Parker Ryerson
+739,0,3,Mr. Neal McNamee
+740,1,3,Mr. Juho Stranden
+741,0,1,Capt. Edward Gifford Crosby
+742,0,3,Mr. Rossmore Edward Abbott
+743,1,2,Miss. Anna Sinkkonen
+744,0,1,Mr. Daniel Warner Marvin
+745,0,3,Mr. Michael Connaghton
+746,1,2,Miss. Joan Wells
+747,1,3,Master. Meier Moor
+748,0,3,Mr. Johannes Joseph Vande Velde
+749,0,3,Mr. Lalio Jonkoff
+750,1,2,Mrs. Samuel (Jane Laver) Herman
+751,1,2,Master. Viljo Hamalainen
+752,0,3,Mr. August Sigfrid Carlsson
+753,0,2,Mr. Percy Andrew Bailey
+754,0,3,Mr. Thomas Leonard Theobald
+755,1,1,the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes
+756,0,3,Mr. John Garfirth
+757,0,3,Mr. Iisakki Antino Aijo Nirva
+758,1,3,Mr. Hanna Assi Barah
+759,1,1,Mrs. William Ernest (Lucile Polk) Carter
+760,0,3,Mr. Hans Linus Eklund
+761,1,1,Mrs. John C (Anna Andrews) Hogeboom
+762,0,1,Dr. Arthur Jackson Brewe
+763,0,3,Miss. Mary Mangan
+764,0,3,Mr. Daniel J Moran
+765,0,3,Mr. Daniel Danielsen Gronnestad
+766,0,3,Mr. Rene Aime Lievens
+767,0,3,Mr. Niels Peder Jensen
+768,0,2,Mrs. (Mary) Mack
+769,0,3,Mr. Dibo Elias
+770,1,2,Mrs. Elizabeth (Eliza Needs) Hocking
+771,0,3,Mr. Pehr Fabian Oliver Malkolm Myhrman
+772,0,3,Mr. Roger Tobin
+773,1,3,Miss. Virginia Ethel Emanuel
+774,0,3,Mr. Thomas J Kilgannon
+775,1,1,Mrs. Edward Scott (Elisabeth Walton McMillan) Robert
+776,1,3,Miss. Banoura Ayoub
+777,1,1,Mrs. Albert Adrian (Vera Gillespie) Dick
+778,0,1,Mr. Milton Clyde Long
+779,0,3,Mr. Andrew G Johnston
+780,0,3,Mr. William Ali
+781,0,3,Mr. Abraham (David Lishin) Harmer
+782,1,3,Miss. Anna Sofia Sjoblom
+783,0,3,Master. George Hugh Rice
+784,1,3,Master. Bertram Vere Dean
+785,0,1,Mr. Benjamin Guggenheim
+786,0,3,Mr. Andrew Keane
+787,0,2,Mr. Alfred Gaskell
+788,0,3,Miss. Stella Anna Sage
+789,0,1,Mr. William Fisher Hoyt
+790,0,3,Mr. Ristiu Dantcheff
+791,0,2,Mr. Richard Otter
+792,1,1,Dr. Alice (Farnham) Leader
+793,1,3,Mrs. Mara Osman
+794,0,3,Mr. Yousseff Ibrahim Shawah
+795,0,3,Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe
+796,0,2,Mr. Martin Ponesell
+797,1,2,Mrs. Harvey (Charlotte Annie Tate) Collyer
+798,1,1,Master. William Thornton II Carter
+799,1,3,Master. Assad Alexander Thomas
+800,1,3,Mr. Oskar Arvid Hedman
+801,0,3,Mr. Karl Johan Johansson
+802,0,1,Mr. Thomas Jr Andrews
+803,0,3,Miss. Ellen Natalia Pettersson
+804,0,2,Mr. August Meyer
+805,1,1,Mrs. Norman Campbell (Bertha Griggs) Chambers
+806,0,3,Mr. William Alexander
+807,0,3,Mr. James Lester
+808,0,2,Mr. Richard James Slemen
+809,0,3,Miss. Ebba Iris Alfrida Andersson
+810,0,3,Mr. Ernest Portage Tomlin
+811,0,1,Mr. Richard Fry
+812,0,3,Miss. Wendla Maria Heininen
+813,0,2,Mr. Albert Mallet
+814,0,3,Mr. John Fredrik Alexander Holm
+815,0,3,Master. Karl Thorsten Skoog
+816,1,1,Mrs. Charles Melville (Clara Jennings Gregg) Hays
+817,1,3,Mr. Nikola Lulic
+818,0,1,Jonkheer. John George Reuchlin
+819,1,3,Mrs. (Beila) Moor
+820,0,3,Master. Urho Abraham Panula
+821,0,3,Mr. John Flynn
+822,0,3,Mr. Len Lam
+823,1,2,Master. Andre Mallet
+824,1,3,Mr. Thomas Joseph McCormack
+825,1,1,Mrs. George Nelson (Martha Evelyn) Stone
+826,1,3,Mrs. Antoni (Selini Alexander) Yasbeck
+827,1,2,Master. George Sibley Richards
+828,0,3,Mr. Amin Saad
+829,0,3,Mr. Albert Augustsson
+830,0,3,Mr. Owen George Allum
+831,1,1,Miss. Sara Rebecca Compton
+832,0,3,Mr. Jakob Pasic
+833,0,3,Mr. Maurice Sirota
+834,1,3,Mr. Chang Chip
+835,1,1,Mr. Pierre Marechal
+836,0,3,Mr. Ilmari Rudolf Alhomaki
+837,0,2,Mr. Thomas Charles Mudd
+838,1,1,Miss. Augusta Serepeca
+839,0,3,Mr. Peter L Lemberopolous
+840,0,3,Mr. Jeso Culumovic
+841,0,3,Mr. Anthony Abbing
+842,0,3,Mr. Douglas Bullen Sage
+843,0,3,Mr. Marin Markoff
+844,0,2,Rev. John Harper
+845,1,1,Mrs. Samuel L (Edwiga Grabowska) Goldenberg
+846,0,3,Master. Sigvard Harald Elias Andersson
+847,0,3,Mr. Johan Svensson
+848,0,3,Miss. Nourelain Boulos
+849,1,1,Miss. Mary Conover Lines
+850,0,2,Mrs. Ernest Courtenay (Lilian Hughes) Carter
+851,1,3,Mrs. Sam (Leah Rosen) Aks
+852,1,1,Mrs. George Dennick (Mary Hitchcock) Wick
+853,1,1,Mr. Peter Denis Daly
+854,1,3,Mrs. Solomon (Latifa Qurban) Baclini
+855,0,3,Mr. Raihed Razi
+856,0,3,Mr. Claus Peter Hansen
+857,0,2,Mr. Frederick Edward Giles
+858,1,1,Mrs. Frederick Joel (Margaret Welles Barron) Swift
+859,0,3,Miss. Dorothy Edith Sage
+860,0,2,Mr. John William Gill
+861,1,2,Mrs. (Karolina) Bystrom
+862,1,2,Miss. Asuncion Duran y More
+863,0,1,Mr. Washington Augustus II Roebling
+864,0,3,Mr. Philemon van Melkebeke
+865,1,3,Master. Harold Theodor Johnson
+866,0,3,Mr. Cerin Balkic
+867,1,1,Mrs. Richard Leonard (Sallie Monypeny) Beckwith
+868,0,1,Mr. Frans Olof Carlsson
+869,0,3,Mr. Victor Vander Cruyssen
+870,1,2,Mrs. Samuel (Hannah Wizosky) Abelson
+871,1,3,Miss. Adele Kiamie Najib
+872,0,3,Mr. Alfred Ossian Gustafsson
+873,0,3,Mr. Nedelio Petroff
+874,0,3,Mr. Kristo Laleff
+875,1,1,Mrs. Thomas Jr (Lily Alexenia Wilson) Potter
+876,1,2,Mrs. William (Imanita Parrish Hall) Shelley
+877,0,3,Mr. Johann Markun
+878,0,3,Miss. Gerda Ulrika Dahlberg
+879,0,2,Mr. Frederick James Banfield
+880,0,3,Mr. Henry Jr Sutehall
+881,0,3,Mrs. William (Margaret Norton) Rice
+882,0,2,Rev. Juozas Montvila
+883,1,1,Miss. Margaret Edith Graham
+884,0,3,Miss. Catherine Helen Johnston
+885,1,1,Mr. Karl Howell Behr
+886,0,3,Mr. Patrick Dooley
